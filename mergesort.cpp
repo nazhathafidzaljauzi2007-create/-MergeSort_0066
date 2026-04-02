@@ -8,7 +8,7 @@ int n;
  
 void input()
 {
-    while (true)
+    while (true) 
     {
         cout << "Masukkan Panjang element array : ";
         cin >> n;
